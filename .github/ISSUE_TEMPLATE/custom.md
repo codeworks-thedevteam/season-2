@@ -2,7 +2,7 @@
 name: Episode Planning Template
 about: Used for planning our episode content
 title: TheDevTeam - {{ date | date('DD MMMM YYYY') }}
-labels: ":ballot_box_with_check: meeting-notes"
+labels: ":ballot_box_with_check: show-notes"
 assignees: ryandcoates, jakeoverall, MarkOhnsman
 
 ---
@@ -12,7 +12,9 @@ assignees: ryandcoates, jakeoverall, MarkOhnsman
 - TBD
 
 ### 👥 Attendees
-- TBD
+- @ryandcoates 
+- @MarkOhnsman 
+- @jakeoverall
 
 ### :newspaper: News
 - TBD
@@ -22,3 +24,5 @@ assignees: ryandcoates, jakeoverall, MarkOhnsman
 
 ### :brain: Deep Dive
 - TBD
+
+### Weekly Picks
